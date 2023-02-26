@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/NoteSimple.iml" filepath="$PROJECT_DIR$/.idea/NoteSimple.iml" />
+      <module fileurl="file://$PROJECT_DIR$/QuickNote/QuickNote.iml" filepath="$PROJECT_DIR$/QuickNote/QuickNote.iml" />
+      <module fileurl="file://$PROJECT_DIR$/QuickNotes/QuickNotes.iml" filepath="$PROJECT_DIR$/QuickNotes/QuickNotes.iml" />
+    </modules>
+  </component>
+</project>
